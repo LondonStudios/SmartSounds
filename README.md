@@ -13,6 +13,7 @@ You can now buy me a coffee [here](https://www.buymeacoffee.com/londonstudios).
 ## Usage
 **/sound [name]** - Plays the selected sound to yourself and nearby players.
 **/sounds** - Lists all available sounds
+**/stopsounds** - Stops nearby sounds
 
 All sounds heard by nearby players reduce in volume the further away they are, the initial sound volume and the radius can all be configured in the "config.ini" file.
 ## Installation
